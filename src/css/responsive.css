@@ -1,0 +1,11 @@
+@media(min-width: 768px){
+    .card-advice{
+        padding: 20px;
+        width: 486px;
+    }
+
+    .card-advice p{
+        font-size: 21px;
+        padding: 20px;
+    }
+}
